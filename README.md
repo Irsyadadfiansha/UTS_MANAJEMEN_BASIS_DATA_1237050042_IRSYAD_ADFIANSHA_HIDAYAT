@@ -11,10 +11,13 @@ Tugas ini berfokus pada pembuatan **service PostgreSQL** menggunakan **Docker Co
 
 Isi dari file `.env` sebagai berikut :
 POSTGRES_USER=postgres
+<br>
 POSTGRES_PASSWORD=xxxxx
+<br>
 POSTGRES_DB=xxxxx
 ### Ganti NAMA dan XXX sesuai instruksi (XXX = 3 digit terakhir NIM)
 CONTAINER_NAME_POSTGRES=postgres_NAMA
+<br>
 HOST_PORT_POSTGRES=22xxx
 
 
