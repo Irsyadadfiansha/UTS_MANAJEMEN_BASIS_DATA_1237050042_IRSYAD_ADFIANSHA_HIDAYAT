@@ -17,7 +17,7 @@ POSTGRES_USER=postgres
 POSTGRES_PASSWORD=xxxxx
 <br>
 POSTGRES_DB=xxxxx
-### Ganti NAMA dan XXX sesuai instruksi (XXX = 3 digit terakhir NIM)
+### Ganti NAMA dan XXX sesuai instruksi
 CONTAINER_NAME_POSTGRES=postgres_NAMA
 <br>
 HOST_PORT_POSTGRES=22xxx
